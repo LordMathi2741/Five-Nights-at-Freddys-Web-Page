@@ -1,0 +1,34 @@
+.Title{
+    color:darkorange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Text{
+    margin: 10px;
+    width: 50%;
+    border-radius: 20px;
+    border-color: aliceblue;
+    text-align: center;
+}
+.Enviar{
+    border-radius: 20px;
+    background-color: tomato;
+    border-color: none;
+    color:aliceblue;
+    margin:10px;
+    padding:10px;
+    width:20%
+}
+body{
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/261f0b1e-b095-4037-979d-f38569b6bb79/dgb507w-73c6e39d-d5e8-484c-b8eb-d07d088f0041.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI2MWYwYjFlLWIwOTUtNDAzNy05NzlkLWYzODU2OWI2YmI3OVwvZGdiNTA3dy03M2M2ZTM5ZC1kNWU4LTQ4NGMtYjhlYi1kMDdkMDg4ZjAwNDEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VuFqOjBIGhrcXyaboBAf4LI9AElrC1gQOWjb_IOHRqc');
+}
+.option{
+    color:aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    color:tomato;
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px), 
+       only screen and (min-width: 768px) and (-webkit-min-device-pixel-ratio: 2) {
+    /* Estilos para laptops y dispositivos iOS */
+}
